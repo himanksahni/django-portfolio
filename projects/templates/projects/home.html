@@ -1,0 +1,9 @@
+<h1> Project {{project.id}} </h1>
+
+    <div>
+       <h2> {{project.name}} </h2>
+       <img src={{project.image.url}} alt={{project.name}} height=300>
+       <p>{{project.description}}</p>
+    </div>
+
+<a href="{% url 'home' %}">Back to Home</a>
