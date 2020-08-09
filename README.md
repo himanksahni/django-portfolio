@@ -1,4 +1,4 @@
-### Django Portfolio
+# Django Portfolio
 
 A basic small portfolio made with django using Postgres to store all my projects and Bootstrap CSS framwork.
 
